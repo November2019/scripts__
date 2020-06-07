@@ -1,5 +1,6 @@
 #!/bin/sh
 #enumerate rpcclient from users.txt
+#store them in txt file
 if [[ $# -eq 0 ]] ; then
 	echo ".\script <ip>"
 	echo "No IP supplied"
