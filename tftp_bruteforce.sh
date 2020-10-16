@@ -1,4 +1,5 @@
 #!/bin/bash
+#download bruteForcer for tftp
 
 server="tftp://$2"
 
